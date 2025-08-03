@@ -4,7 +4,7 @@ A complete tutorial for building a Retrieval-Augmented Generation (RAG) system t
 
 ## 🎥 Demo
 
-https://github.com/user-attachments/assets/cd41350e-1aac-443d-ab15-d16f8ffd369a
+https://github.com/user-attachments/assets/029a92af-9a5a-43b3-adf8-2f5ba62eca33
 
 ## 🎯 What You'll Learn
 
