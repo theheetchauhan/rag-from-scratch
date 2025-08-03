@@ -1,0 +1,15 @@
+streamlit
+langchain
+langchain-community
+langchain-chroma
+langchain-text-splitters
+langchain-core
+langchain-openai
+pypdf
+chromadb
+sentence-transformers
+requests
+openai
+tiktoken
+numpy
+pandas
